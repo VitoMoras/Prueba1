@@ -11,3 +11,16 @@ E:\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act. G
 E:\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.exe
 E:\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.xml
 E:\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.pdb
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\bin\Debug\Act.Git_Hinostroza_Moras.exe.config
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\bin\Debug\Act.Git_Hinostroza_Moras.exe
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\bin\Debug\Act.Git_Hinostroza_Moras.pdb
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\bin\Debug\Act.Git_Hinostroza_Moras.xml
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act. Git Hinostroza_Moras.vbprojAssemblyReference.cache
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.Form1.resources
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.Form2.resources
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.Resources.resources
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act. Git Hinostroza_Moras.vbproj.GenerateResource.cache
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act. Git Hinostroza_Moras.vbproj.CoreCompileInputs.cache
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.exe
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.xml
+D:\visual\Act. Git\Act. Git Hinostroza_Moras\Act. Git Hinostroza_Moras\obj\Debug\Act.Git_Hinostroza_Moras.pdb
